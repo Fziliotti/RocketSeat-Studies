@@ -1,0 +1,12 @@
+{
+  "name": "git-tinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ./backend/src/server.js",
+    "front-react": "cd ./front-react && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}

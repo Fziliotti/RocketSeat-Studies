@@ -1,0 +1,106 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 12
+    },
+    {
+      "id": 8,
+      "amount": 4
+    },
+    {
+      "id": 9,
+      "amount": 3
+    },
+    {
+      "id": 10,
+      "amount": 20
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Nike Branco",
+      "price": 120.1,
+      "image": "https://cdn.moovin.com.br/tenant/single/5ba13431fb0a70e4226accbb80f18615/resource/product/picture/tenis-nike-tanjun-3033fea415a54273e4df2f3e0db1e1d1.png"
+    },
+    {
+      "id": 7,
+      "title": "Tênis Nike PretoBranco",
+      "price": 320.5,
+      "image": "https://static.polissport.com.br/public/polissport/imagens/produtos/tenis-nike-air-motion-lw-az-masculino-833260-401-1992.png"
+    },
+    {
+      "id": 8,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://www.triboesporte.com.br/media/catalog/product/cache/1/image/400x400/9df78eab33525d08d6e5fb8d27136e95/n/i/nikeblue.png"
+    },
+    {
+      "id": 9,
+      "title": "Tênis diferenciado",
+      "price": 200.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Tênis Caminhada evolution",
+      "price": 200.0,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    }
+  ]
+}
